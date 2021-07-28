@@ -1,5 +1,27 @@
+/* font family added" */
+
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700;900&display=swap");
+
+/* default styles */
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+
 /* header part styles */
 
 .navbar-logo {
-  width: 290px;
+    width: 290px;
+}
+
+
+/* home section */
+
+.text-largest {
+    font-size: 80px;
+}
+
+.font-bebas {
+    font-family: "Bebas Neue", cursive;
 }
